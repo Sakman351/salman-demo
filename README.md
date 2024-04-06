@@ -1,2 +1,3 @@
-# salman-demo
-This is my firs github Repositry
+# Salman-demo
+This is my firs GitHub Repository
+Author -Salman Tariq
